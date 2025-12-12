@@ -29,3 +29,19 @@ Queries used to fetch paginated characters using the `characters(page: Int)` fie
 - `characters-page-3-output.json` – Output for page 3
 - `characters-page-4.graphql` – Query for page 4
 - `characters-page-4-output.json` – Output for page 4
+
+# Episode Queries
+
+This directory contains GraphQL queries to fetch specific episodes from the Rick and Morty GraphQL API using the endpoint:
+
+https://rickandmortyapi.com/graphql
+
+Files:
+- episode-page-1.graphql — Query for episode id 1
+- characters-page-1-output.json — Output for episode id 1
+- characters-page-2.graphql — Query for episode id 2
+- characters-page-2-output.json — Output for episode id 2
+- characters-page-3.graphql — Query for episode id 3
+- characters-page-3-output.json — Output for episode id 3
+- characters-page-4.graphql — Query for episode id 4
+- characters-page-4-output.json — Output for episode id 4
